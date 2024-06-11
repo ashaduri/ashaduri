@@ -1,6 +1,9 @@
-I'm a professional C++ software developer since 2002.
+I am an experienced Software Engineer and open-source developer proficient in C++ and Rust,
+dedicated to creating safe, reliable, and efficient software.
 
-While I strongly believe in using the right tool for the job, I'm also an avid fan of safe, reliable and efficient programming, so safe C++ and Rust code is where my interests are focused. Most of my software is cross-platform, but I mainly use Linux as my desktop and development platform.
+Most of my software is cross-platform, although I primarily use Linux as my desktop and
+development platform.
+
 
 <!--
 I also have a tech blog at [blog.shaduri.dev](https://blog.shaduri.dev) where I discuss various programming tips and techniques.
